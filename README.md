@@ -1,4 +1,4 @@
-# youdao_translate
+# 爬取有道翻译结果
 get translations from YouDao
 
 
